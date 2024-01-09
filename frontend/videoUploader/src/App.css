@@ -1,0 +1,14 @@
+
+.container{
+  color: aquamarine;
+  font-size: 50px;
+  font-weight: bolder;
+  margin-left: 30px;
+  text-shadow: 2px 2px 4px rgba(185, 179, 179, 0.5);
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  cursor: pointer;
+  transform: transition 0.3s ease;
+}
+.container:hover {
+    color: rgb(74, 137, 160);
+  }
